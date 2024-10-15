@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\TestApplication.exe
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\TestApplication.deps.json
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\TestApplication.runtimeconfig.json
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\TestApplication.dll
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\TestApplication.pdb
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.Form1.resources
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\MyFirstWindow.Program.resources
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.dll
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\refint\TestApplication.dll
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.pdb
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ref\TestApplication.dll

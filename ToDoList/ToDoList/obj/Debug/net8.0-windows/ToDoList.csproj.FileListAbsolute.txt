@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\ToDoList.exe
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\ToDoList.deps.json
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\ToDoList.runtimeconfig.json
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\ToDoList.dll
+C:\Users\Admin\Desktop\TestApplication\TestApplication\bin\Debug\net8.0-windows\ToDoList.pdb
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\TestApplication.Form1.resources
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\MyFirstWindow.Program.resources
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ToDoList.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ToDoList.dll
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\refint\ToDoList.dll
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ToDoList.pdb
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ToDoList.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TestApplication\TestApplication\obj\Debug\net8.0-windows\ref\ToDoList.dll
